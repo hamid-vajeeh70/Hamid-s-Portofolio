@@ -59,3 +59,23 @@ footer {
 .logo{
     border-radius: 50%;
 }
+.social-media {
+    display: flex;
+    align-items: center; 
+}
+
+.instagram{
+    width: 50px;
+    height: auto;
+}
+.Whatsapp {
+    width: 85px; 
+    height: 73px;
+    margin-bottom: 2px;
+}
+.instagram{
+    width: 50px; 
+    height: 50px;
+    margin-right: 10px; 
+}
+
